@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jonas Elmer!
+# Hi there 👋 I'm Jonas!
 
 ## 💫 About Me:
 🔭 I'm currently working on my Master's degree in Computer Science at RWTH Aachen University. I did my Bachelor's at H-BRS Sankt Augustin - feel free to check out the pinned repository of my Bachelor Thesis.<br><br>🌱 I'm currently learning deep learning structures and fitting data representations as well as planning in AI.<br><br>👨‍🏫 I previously worked as a Tutor for Mathematics and Programming.<br><br>👯 I'm open to exciting working student roles or internships!<br>
